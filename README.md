@@ -1,1 +1,3 @@
-# Data-Visualization
+# Exploratory Data Analysis (EDA) Project – DecodeLabs
+
+This project was completed as part of Task Week 2 during my Data Analytics Internship at DecodeLabs. The objective of this project was to perform Exploratory Data Analysis (EDA) on a real-world dataset using Microsoft Excel. The analysis included data cleaning, calculating descriptive statistics such as mean, median, and count, identifying trends and outliers, and creating visualizations including charts, histograms, and pivot tables. Through this project, I developed practical skills in data analysis, analytical thinking, and data visualization while transforming raw data into meaningful insights and business-oriented observations.
